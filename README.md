@@ -6,7 +6,6 @@ This is a simple web development project for generating random jokes. It fetches
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [License](#license)
